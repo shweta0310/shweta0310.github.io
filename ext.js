@@ -17,7 +17,7 @@ $(document).ready(function(){
 	});
 	
 	$("#b1").click(function(){
-		window.open('/pictures/kbc1.pdf','_blank');
+		window.open('https://github.com/shweta0310/shweta0310.github.io/blob/master/kbc1.pdf','_blank');
 	});
 	$("#b3").click(function(){
 		window.open('https://github.com/shweta0310/ACM-CyberSecurity/tree/master/Shweta','_blank');
